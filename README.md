@@ -14,6 +14,8 @@
   * django.contrib.sites
   * django.contrib.sitemaps
   * EMAIL_BACKEND
+  * MarkDown
+  * Custom Template Filter and Tags
 
 
 #### Search Engine
