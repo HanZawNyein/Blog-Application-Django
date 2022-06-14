@@ -1,5 +1,4 @@
 # Blog Application with Django
-<hr/>
 
 ### Technologies <br/>
 #### Frontend
